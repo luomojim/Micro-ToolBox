@@ -1,0 +1,4 @@
+﻿  clear_iconcache.c
+D:\code\C\icon_killer_real\clear_iconcache\clear_iconcache\clear_iconcache.c(49,20): warning C4477: “printf”: 格式字符串“%lu”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“WCHAR *”
+D:\code\C\icon_killer_real\clear_iconcache\clear_iconcache\clear_iconcache.c(49,20): warning C4313: "printf": 格式字符串中的 "%u" 与类型为 "WCHAR *" 的参数 1 冲突
+  clear_iconcache.vcxproj -> D:\code\C\icon_killer_real\clear_iconcache\x64\Debug\clear_iconcache.exe
